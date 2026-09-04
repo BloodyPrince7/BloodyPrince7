@@ -1,385 +1,563 @@
-<!-- ===================== HERO ===================== -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;I'm+Pankaj+Kumar!;Software+Engineer+in+Progress;AI%2FML+Enthusiast;Building+Things+That+Matter+🚀" />
+</h1>
+
+<h3 align="center">
+  💻 Software Engineering &nbsp; • &nbsp; 🤖 AI/ML &nbsp; • &nbsp; ⚙️ Backend &nbsp; • &nbsp; ☁️ DevOps
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=PANKAJ%20KUMAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=GAME%20DEV%20%7C%20VR%2FXR%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=60&descSize=18"/>
+  <img
+    align="right"
+    alt="Coding"
+    width="400"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=7DF9FF&center=true&vCenter=true&width=800&lines=🎮+Building+Games+with+Unity;🥽+Creating+Immersive+VR%2FXR+Experiences;⚙️+Exploring+Game+Engine+Architecture;🤖+Building+AI+%26+Software+Projects;☁️+Learning+DevOps+%26+Cloud"/>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+🎓 B.E. Electronics & Telecommunication Engineering
+🏫 Army Institute of Technology, Pune
+📍 India
 
-## 🧑‍💻 `whoami`
+🌱 Currently exploring AI/ML, LLM applications, Backend Systems & Cloud
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  Pankaj Kumar                                               │
-│  ├── 🎓 B.E. Electronics & Telecommunication               │
-│  ├── 🎮 Game Developer                                      │
-│  ├── 🥽 VR/XR Developer                                     │
-│  ├── ⚙️ Software Engineer                                   │
-│  └── 🚀 Builder & Hackathon Enthusiast                      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+💬 Ask me about Python, Java, C#, FastAPI, Spring Boot, Docker & Software Engineering
 
-I'm an engineering student at **Army Institute of Technology, Pune**, interested in building things that combine **code, graphics, interaction and technology**.
+⚡ I enjoy turning problems → systems → code → working products
 
-My main playground is **Unity + C#**, but I also enjoy going deeper into **game-engine architecture, graphics, backend development and DevOps**.
+</div>
 
-> **I don't just want to use the tools — I want to understand how they work.**
+<br clear="both"/>
 
----
+<h2 align="center">🌐 Connect With Me</h2>
 
-# 🎮 `CURRENTLY_BUILDING`
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+
+<br/>
+
+<div align="center">
+
+🤖 Programming
+
+<img src="https://skillicons.dev/icons?i=python,java,cs" />
+
+<br/><br/>
+
+⚙️ Backend & Web
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,html,css,js,ts" />
+
+<br/><br/>
+
+🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br/><br/>
+
+☁️ DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,jenkins" />
+
+<br/><br/>
+
+🔧 Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+Python • Java • C# • Spring Boot • FastAPI • REST APIs
+MySQL • MongoDB • Docker • Kubernetes • Jenkins • Linux
+
+</div>
+
+<h2 align="center">🧠 What I'm Exploring</h2>
+
+<br/>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
 
-### 🥽 VR / XR
+<td align="center" width="25%">
 
-Building immersive experiences using:
+🤖
 
-`Unity` `C#` `AR Foundation` `Blender`
+AI / ML
 
-</td>
-
-<td width="50%">
-
-### ⚙️ Game Technology
-
-Exploring:
-
-`OpenGL` `OpenTK` `ECS` `Shaders`
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🤖 AI / Software
-
-Experimenting with:
-
-`Python` `FastAPI` `Java` `Spring Boot`
+Python
+LLMs
+AI Applications
 
 </td>
 
-<td>
+<td align="center" width="25%">
 
-### ☁️ Infrastructure
+⚙️
 
-Learning:
+BACKEND
 
-`Docker` `Kubernetes` `Jenkins` `Linux`
+FastAPI
+Spring Boot
+REST APIs
 
 </td>
+
+<td align="center" width="25%">
+
+🧩
+
+SYSTEMS
+
+Architecture
+Problem Solving
+Scalable Systems
+
+</td>
+
+<td align="center" width="25%">
+
+☁️
+
+DEVOPS
+
+Docker
+Kubernetes
+Linux
+
+</td>
+
 </tr>
 </table>
 
----
+</div>
 
-# 🧰 `TECH_STACK`
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 🎮 Game Development
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,opengl"/>
-</p>
+<table align="center">
 
-`Unity 3D` • `C#` • `VR/XR` • `AR Foundation` • `ShaderLab` • `OpenTK` • `OpenGL` • `Mixamo`
-
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,java,python,js,ts"/>
-</p>
-
-### 🌐 Backend & Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,html,css"/>
-</p>
-
-`Spring Boot` • `FastAPI` • `REST APIs`
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-### ☁️ DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,jenkins"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio"/>
-</p>
-
-`MATLAB` • `KiCad` • `ESP32`
-
----
-
-# 🚀 `FEATURED_PROJECTS`
-
-<table>
 <tr>
-<td width="50%">
 
-## ⚙️ RCore Engine
+<td width="50%" valign="top">
 
-### `C#` `OpenTK` `OpenGL` `ECS`
+<h3>🤖 AI / Software Projects</h3>
 
-A custom experimental **3D mini-engine** built from scratch.
+Building and experimenting with intelligent software systems.
 
-**Features**
+AI / ML
+   ↓
+LLM Applications
+   ↓
+Backend APIs
+   ↓
+Real-world Products
 
-* 🧩 Entity Component System
-* 🎨 OpenGL rendering
-* 🧊 3D geometry
-* 🎥 Camera controls
-* 📐 Perspective projection
+🚧 More projects coming soon
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ RCore Engine</h3>
+
+<b>Custom 3D Mini Engine</b>
+
+<br/><br/>
+
+C# OpenTK OpenGL ECS
+
+<br/><br/>
+
+A 3D mini-engine built to explore graphics and engine architecture.
+
+<br/><br/>
+
+• Entity Component System
+• OpenGL Rendering
+• 3D Geometry
+• Camera Controls
+• Perspective Projection
 
 </td>
 
-<td width="50%">
-
-## 🥽 VR Training Application
-
-### `Unity` `C#` `ShaderLab`
-
-An immersive VR application developed with the **learnyTown innovation team**.
-
-**Features**
-
-* 🥽 VR environment
-* 🤖 NPC interactions
-* 👊 Punch-hit mechanics
-* 🎨 ShaderLab
-* 🎮 Interactive gameplay
-
-</td>
 </tr>
 
 <tr>
-<td>
 
-## ☁️ DevOps Practice Lab
+<td width="50%" valign="top">
 
-### `Docker` `Kubernetes` `Jenkins`
+<h3>☁️ DevOps Practice Lab</h3>
 
-Hands-on DevOps experimentation.
+<b>Containerization & CI/CD</b>
 
-**Explored**
+<br/><br/>
 
-* 🐳 Containerization
-* 🔄 CI/CD
-* ☸️ Kubernetes
-* 🐧 Linux deployment
+Docker Kubernetes Jenkins Linux
+
+<br/><br/>
+
+Hands-on exploration of:
+
+<br/>
+
+• Containerized applications
+• CI/CD pipelines
+• Kubernetes
+• Linux deployment
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-## 🌐 Hushh Tech Website
+<h3>🌐 Hushh Tech Website</h3>
 
-### `TypeScript` `JavaScript` `Python`
+<b>Open Source Contribution</b>
 
-Open-source contribution focused on:
+<br/><br/>
 
-* 🐛 Bug fixes
-* ⚡ Performance
-* ✨ New features
-* 🐳 Docker
+TypeScript JavaScript Python Docker
+
+<br/><br/>
+
+Contributed through:
+
+<br/>
+
+• Bug fixes
+• Performance optimization
+• New features
+• Docker integration
+
+<br/>
 
 <a href="https://github.com/BloodyPrince7/hushh_Tech_website">
-View Repository →
+🔗 View Repository →
 </a>
 
 </td>
+
 </tr>
+
 </table>
 
----
+<h2 align="center">🧩 How I Like To Build</h2>
 
-# 🏆 `ACHIEVEMENTS`
+<div align="center">
+
+                 ┌──────────────┐
+                 │    PROBLEM   │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │  UNDERSTAND  │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │  ARCHITECT   │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │     CODE     │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │    TEST      │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │    DEPLOY    │
+                 └──────┬───────┘
+                        │
+                        ▼
+                    🚀 SHIP IT
+
+</div>
+
+<h2 align="center">💼 Experience</h2>
+
+<h3>🎮 Game Developer Intern — IDZ Digital Private Limited</h3>
+
+<b>Aug 2025 – Jun 2026</b>
+
+Worked on game-development tasks using:
+
+C# • Unity3D
+
+<br/>
+
+<h3>🥽 VR Lead — GDXR Club</h3>
+
+<b>Army Institute of Technology · Aug 2024 – Present</b>
+
+Worked with:
+
+AR/VR • Blender • Mixamo
+
+Building immersive and interactive experiences.
+
+<br/>
+
+🎯 Game development and VR are part of my engineering background, while my current direction is expanding toward software engineering, AI/ML and backend systems.
+
+<h2 align="center">🏆 Achievements</h2>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🥈_1st_Runner--Up-IIIT_Delhi_×_IGDA-FFD700?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🥈_1st_Runner--Up-Genesis_5_VR-FFD700?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🥉_2nd_Runner--Up-Arcade_AR-CD7F32?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+🏆
+Innerve 9
+
+Finalist
+
+</td>
+
+<td align="center">
+
+🏆
+Vinhack
+
+Finalist
+VIT Vellore
+
+</td>
+
+<td align="center">
+
+🏆
+Imaginate
+
+Finalist
+Solution 2K25
+
+</td>
+
+</tr>
+
+</table>
+
+<h2 align="center">🎓 Education</h2>
+
+<br/>
+
+<div align="center">
+
+🏫 Army Institute of Technology, Pune
+
+B.E. Electronics & Telecommunication Engineering
+
+2024 – 2028
+
+📊 Aggregate CGPA: 7.82 / 10
+
+<br/>
+
+<details>
+
+<summary>📚 Previous Education</summary>
+
+<br/>
+
+Army Public School, Mathura
+
+🎓 Senior Secondary — CBSE
+79.8% · 2023
+
+🎓 Secondary — CBSE
+94.4% · 2021
+
+</details>
+
+</div>
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🤖_AI%2FML-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠_LLM_Applications-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚙️_Backend_Systems-0F172A?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/☁️_Cloud-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐳_DevOps-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧩_System_Design-0F172A?style=for-the-badge"/>
+
+</div>
+
+<details>
+
+<summary><h2>🎮 Game Dev / VR Background</h2></summary>
+
+<br/>
+
+Although my current focus is software engineering and AI/ML, I have experience with:
+
+Unity 3D • VR/XR • AR Foundation • Blender • Mixamo • ShaderLab
+
+I've worked on immersive applications, VR interaction systems and game-development projects.
+
+</details>
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+
+<br/>
+
+<div align="center">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+/>
+
+</div>
+
+<br/>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<br/>
+
+<div align="center">
+
+<img
+width="390"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"
+/>
+
+<img
+width="390"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=tokyonight&hide_border=true"
+alt="GitHub Stats"
+/>
+
+<br/><br/>
+
+<img
+width="420"
+src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
+
+</div>
+
+<br/>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<br/>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🥈_RUNNER--UP-IIIT_Delhi_×_IGDA-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🥈_RUNNER--UP-Genesis_5_VR-FFD700?style=for-the-badge"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"
+width="95%"
+/>
 
 </p>
 
-<p align="center">
+<h2 align="center">💻 Developer Mode</h2>
 
-<img src="https://img.shields.io/badge/🥉_SECOND_RUNNER--UP-Arcade_AR-CD7F32?style=for-the-badge"/>
+<br/>
 
-</p>
+<div align="center">
 
-### 🏅 Hackathon Finalist
+┌───────────────────────────────────────────────┐
+│                                               │
+│  PANKAJ@DEV:~$ ./build_future.sh              │
+│                                               │
+│  [✓] Learn                                    │
+│  [✓] Experiment                               │
+│  [✓] Build                                    │
+│  [✓] Debug                                    │
+│  [✓] Deploy                                   │
+│                                               │
+│  STATUS: BUILDING 🚀                          │
+│                                               │
+└───────────────────────────────────────────────┘
 
-`Innerve 9` • `Vinhack @ VIT Vellore` • `Imaginate @ Solution 2K25`
+</div>
 
----
-
-# 💼 `EXPERIENCE`
-
-### 🎮 Game Developer Intern
-
-**IDZ Digital Private Limited**
-
-`Aug 2025 → Jun 2026`
-
-```text
-C# + Unity3D
-      ↓
-Game Development
-      ↓
-Interactive Experiences
-```
-
----
-
-### 🥽 VR Lead — GDXR Club
-
-**Army Institute of Technology**
-
-`Aug 2024 → Present`
-
-```text
-AR / VR
-  │
-  ├── Blender
-  ├── Mixamo
-  └── Interactive Experiences
-```
-
----
-
-# 🎓 `EDUCATION`
-
-### 🏫 Army Institute of Technology, Pune
-
-**B.E. Electronics & Telecommunication Engineering**
-
-`2024 — 2028`
-
-**CGPA:** `7.82 / 10`
-
----
-
-# 📊 `GITHUB_ANALYTICS`
+<h2 align="center">🚀 Let's Build Something</h2>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=FFFFFF" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=FF6B6B&currStreakLabel=7DF9FF"/>
-
-</p>
-
----
-
-# 🐍 `CONTRIBUTION_MATRIX`
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
-
-# 📈 `ACTIVITY`
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=7DF9FF&line=7DF9FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</p>
-
----
-
-# 🧠 `WHAT_I'M_LEARNING`
-
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│  🎮 Advanced Unity Architecture                          │
-│  🥽 VR / XR Development                                  │
-│  🎨 Real-Time Rendering & Graphics                       │
-│  ⚙️ Game Engine Architecture                             │
-│  🤖 AI / ML & LLM Applications                            │
-│  ☁️ Cloud & DevOps                                       │
-│  🧩 Distributed & Backend Systems                        │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
-
----
-
-# ⚡ `FUN_FACT`
-
-```text
-while (alive)
-{
-    Learn();
-    Build();
-    Break();
-    Debug();
-    Repeat();
-}
-```
-
----
-
-# 🌐 `CONNECT`
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
 
-### ⭐ Build something. Break something. Learn something.
+<b>Build → Learn → Ship → Repeat 🚀</b>
 
 </p>
 
-<!-- ===================== FOOTER ===================== -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:0F172A,100:020617&height=120&section=footer"
+    width="100%"
+  />
 </p>
