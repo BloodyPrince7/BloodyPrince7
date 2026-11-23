@@ -1,88 +1,48 @@
-<!-- ===================== HEADER ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Pankaj%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Backend+%26+DevOps+Developer+%E2%9A%99%EF%B8%8F;Building+Things+That+Matter+%F0%9F%94%A5)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=180&section=header&text=Pankaj%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Applied%20AI%20Engineer%20%7C%20LLMs%2C%20Agents%2C%20Retrieval%20%26%20FastAPI&descAlignY=62&descSize=16"/>
+
+<p>
+  <a href="https://www.linkedin.com/in/pankaj-kumar-aaa648438">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pankajkumar_240666@aitpune.edu.in">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.arvronline.in">
+    <img src="https://img.shields.io/badge/Live%20Demo-FinLens%20AI-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="FinLens Live"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### About Me
 
-🎓 E&TC Engineering @ **Army Institute of Technology, Pune**
-
-💻 **Software Engineering • AI/ML • Backend • DevOps**
-
-🤖 Exploring **AI, LLMs & intelligent applications**
-
-⚙️ Building with **Python, Java, C#, Spring Boot & FastAPI**
-
-☁️ Learning **Docker, Kubernetes & Cloud**
+- B.E. in Electronics & Telecommunication @ **Army Institute of Technology, Pune** (2024–2028)
+- Building **LLM-powered agents, semantic retrieval & memory systems, and production Python/SQL backends**
+- Former **AR/VR Intern @ IDZ Digital Private Limited** · **Finalist, Paytm AI Hackathon** · **200+ LeetCode**
 
 ---
 
-## 🛠️ Tech Stack
+### Featured Projects
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cs,spring,fastapi,mysql,mongodb,docker,kubernetes,linux,git,github,vscode,unity&perline=7"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech |
-|---|---|
-| 🤖 **AI/ML Projects** | Python • LLMs |
-| ⚙️ **Backend Systems** | Spring Boot • FastAPI |
-| 🐳 **DevOps Practice Lab** | Docker • Kubernetes • Jenkins |
-| 🎮 **RCore Engine** | C# • OpenGL • ECS |
+| Project | What It Does | Core Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **FinLens AI** | Financial document intelligence with per-user cross-document AI memory (LanceDB / pgvector), multimodal OCR, and Dockerized deployment | `Python` `FastAPI` `SQLAlchemy` `Cognee` `Gemini` `Docker` `React` | [Repo](https://github.com/BloodyPrince7/FinLens) · [Live](https://www.arvronline.in) |
+| **AI Risk Manager** | Return-abuse detection with an 8-table SQLAlchemy schema, SQL entity-pattern analytics, structured multimodal LLM verification, and calibrated XGBoost scoring | `Python` `FastAPI` `SQLAlchemy` `Google GenAI` `XGBoost` `Pytest` | [Repo](https://github.com/BloodyPrince7/Ai-Risk-Manager) |
+| **MoveWise** | Conversational AI relocation search & recommendation agent with multi-engine SerpAPI tool orchestration, caching, and dynamic 100-point weighted ranking | `TypeScript` `Next.js` `Google GenAI` `SerpAPI` `Leaflet` | [Repo](https://github.com/BloodyPrince7/MoveWise) |
+| **Social Pulse Studio** | Multimodal Gemini content adaptation and asynchronous scheduled publishing backend with modular platform publishers | `Python` `FastAPI` `SQLAlchemy` `APScheduler` `Gemini` `React` | [Repo](https://github.com/BloodyPrince7/Media-Automation) · [Live](https://media-automation-henna.vercel.app) |
 
 ---
 
-## 📊 GitHub
+### Tech Stack
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,sqlite,ts,react,nextjs,docker,linux,git,github,java,cs&perline=7" alt="Tech Stack"/>
 </p>
 
----
-
-## 🐍 Contribution
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-## 🤝 Connect
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-### ⚡ Code. Learn. Build. Repeat.
-
-</p>
+- **LLMs, Agents & Retrieval:** Google GenAI (Gemini), Tool Orchestration, Structured JSON Outputs, RAG & Embeddings, Cognee (LanceDB / pgvector), Semantic Search
+- **Backend & Data:** Python, FastAPI, SQLAlchemy, Pydantic, REST APIs, JWT Auth, SQL (PostgreSQL / MySQL / SQLite), Spring Boot, Node.js
+- **ML & DevOps:** Scikit-learn, XGBoost, Pandas, Docker, Docker Compose, Git, Linux, Vercel, Render
